@@ -1,4 +1,4 @@
-# Mini Wagering Game App
+# Mini Wagering Game App (Using React Native Expo )
 This project is a basic React Native application developed using Expo, allowing users to authenticate, view a game card feed, participate in challenges, and integrate a live pedometer for tracking-based games.
 
 ## Features
