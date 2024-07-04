@@ -1,6 +1,18 @@
 # Mini Wagering Game App (Using React Native Expo )
 This project is a basic React Native application developed using Expo, allowing users to authenticate, view a game card feed, participate in challenges, and integrate a live pedometer for tracking-based games.
 
+## Architecture
+
+React Native: The app is built using React Native, a JavaScript framework for building mobile applications.
+
+Navigation: Utilizes react-navigation for navigation between screens, including stack navigation for login/signup, tab navigation for main screens, and modal navigation for game details.
+
+State Management: State is managed using React hooks (useState, useEffect) and context API (useContext) for global state management.
+
+Firebase Integration: Integrated Firebase for authentication and real-time database functionality.
+
+Third-party Libraries: Uses various libraries like react-native-sensors for accelerometer integration and react-native-reanimated for animations.
+
 ## Features
 
 ### Authentication:
